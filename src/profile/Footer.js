@@ -11,7 +11,7 @@ const Footer = () => {
         <a href="#" class="fa fa-youtube"></a>
         <a href="#" class="fa fa-instagram"></a></div>
         <div ><a href="#" className="main2">CONTACT</a><br/>
-        <a href="#" className="main4">RETURN HOME</a>
+        <a href="#" className="main4">RETURN HOME Now</a>
         <ul className="main3">
           <li>ABOUT US</li>
           <li>CONTACT US</li>
